@@ -1,0 +1,16 @@
+PODS:
+  - MBProgressHUD (0.9.1)
+  - TouchXML (0.1)
+  - ZipArchive (1.2.0)
+
+DEPENDENCIES:
+  - MBProgressHUD (~> 0.9.1)
+  - TouchXML (= 0.1)
+  - ZipArchive (= 1.2.0)
+
+SPEC CHECKSUMS:
+  MBProgressHUD: c47f2c166c126cf2ce36498d80f33e754d4e93ad
+  TouchXML: 37089088da5e46f0f4a8797d320fbcfed395ab46
+  ZipArchive: 83ea626ea99bae97743ae6413aeb493dd4e48335
+
+COCOAPODS: 0.38.2

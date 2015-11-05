@@ -1,0 +1,14 @@
+# Uncomment this line to define a global platform for your project
+# platform :ios, '6.0'
+
+target 'Struggle' do
+pod 'TouchXML', '0.1'
+pod 'ZipArchive', '1.2.0'
+pod 'MBProgressHUD', '~> 0.9.1'
+
+end
+
+target 'StruggleTests' do
+
+end
+
